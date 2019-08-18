@@ -1,0 +1,22 @@
+Options Menu:
+Q Query the city information by entering the city code.
+D Find the minimum distance between two cities.
+I Insert a road by entering two city codes and a distance.
+R Remove an existing road by entering two city codes.
+H Display the options menu
+E Exit
+Command? q
+City code: lv
+Information: 12 LV LEE VINING 8390 5983
+Command? d
+City codes(seperated by a space): ch pm
+from 5 to 15 updated trough 18 dist: 143.0
+The minimum distance between CHINO HILLS and POMONA is 143.0
+Command? i
+City codes and distance: gg bo 150
+You have inserted a road from GARDEN GRPVE to BOSSTOWNwith a distance of 150
+Command? r
+City codes(seperated by a space): an vv
+The road from ANAHEIM to VICTORVILLE has been removed.
+Command? e
+Thank you, come again!
